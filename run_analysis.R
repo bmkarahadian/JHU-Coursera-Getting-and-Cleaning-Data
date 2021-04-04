@@ -1,5 +1,5 @@
 library(tidyverse)
-setwd("/Users/Benjamin/Desktop/Getting and Cleaning Data Course Project/")
+setwd(#"insert your directory with the UCI HAR dataset")
 
 
 clean <- function(set = c("train", "test")) {
